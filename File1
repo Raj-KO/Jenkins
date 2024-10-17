@@ -3,3 +3,5 @@ Continous Integration
 Continous Deployment 
 Continuos Delivery
 Jenkins is dependent on Java11
+
+Now tried the automation of Build stage by webhooks concept
